@@ -1,0 +1,12 @@
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\bin\Debug\Test_Markazi.exe.config
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\bin\Debug\Test_Markazi.exe
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\bin\Debug\Test_Markazi.pdb
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.Form1.resources
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.Properties.Resources.resources
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.csproj.GenerateResource.Cache
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.exe
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.pdb
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.Form2.resources
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.Form3.resources
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.Form4.resources
+D:\pragrammalar\dasturlar\c#\formalar\Test_Markazi\Test_Markazi\obj\Debug\Test_Markazi.csprojResolveAssemblyReference.cache
